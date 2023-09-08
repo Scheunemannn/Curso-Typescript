@@ -12,4 +12,7 @@ numeros.shift()
 
 console.log(numeros)
 //um tipo de array que serve somente para leitura, nao pode ser modificado por funcoes ou metodos de insercao e remocao
-let numerosRo:ReadonlyArray<number> = [100, 300, 500]
+let numerosRo:ReadonlyArray<number> = [100,]
+
+console.log(numerosRo)
+

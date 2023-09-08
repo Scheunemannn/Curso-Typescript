@@ -6,4 +6,5 @@ numeros.sort();
 numeros.pop();
 numeros.shift();
 console.log(numeros);
-let numerosRo = [100, 300, 500];
+let numerosRo = [100,];
+console.log(numerosRo);
